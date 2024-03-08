@@ -8,7 +8,7 @@
 - 🥅 2023 Goals: Further enhance my skills in both Frontend and Backend development, and contribute to meaningful projects.
 - ⚡ Fun fact: Apart from coding, I have a passion for drawing and gaming!
 
-### Connect with me:
+### Connect with me: heangcode@gmail.com
 
 [<img align="left" alt="heangdev.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
