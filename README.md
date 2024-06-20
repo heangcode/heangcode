@@ -56,3 +56,38 @@ Welcome to my GitHub! I'm a passionate and experienced Frontend Developer with o
 
 ### 🤝 Let's Connect
 I am always eager to connect with like-minded professionals and explore opportunities for collaboration. Feel free to reach out to me!
+
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ly-heang-470476243/)
+[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/Ly_Heang)
+[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85581424846)
+[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
+
+### 🔭 Currently Working On
+- Frontend Development at DR. TECH
+- Building dynamic and responsive web applications
+- Exploring new technologies and frameworks to enhance user experience
+
+### 🌱 Currently Learning
+- Advanced React and NextJS techniques
+- State management with Redux and Context API
+- Backend development with NodeJS and ExpressJS
+
+### 👯 Looking to Collaborate On
+- Open-source projects
+- Innovative web development projects
+- Mentorship and coaching for aspiring developers
+
+### 💬 Ask Me About
+- Frontend development best practices
+- Web application architecture
+- Career advice in web development
+
+### 📫 How to Reach Me
+- **Email:** heangcode@gmail.com
+- **Phone:** +855 81 42 48 46 / +855 12 7600 23
+
+### 😄 Pronouns
+- He/Him
+
+### ⚡ Fun Fact
+- I love to explore new technologies and enjoy mentoring others in the field of web development.
