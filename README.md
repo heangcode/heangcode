@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ly Heang
 
-![Profile Picture]([https://your-profile-picture-url.com](https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg))  <!-- Replace with your actual profile picture URL -->
-
+![Profile Picture]([https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg]) 
 ## Frontend Developer | Full Stack Developer
 
 Welcome to my GitHub! I'm a passionate and experienced Frontend Developer with over 3 years of experience in developing dynamic and responsive web applications. My expertise lies in using the latest frontend technologies to create efficient and visually appealing applications.
