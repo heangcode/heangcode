@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Ly Heang
 
-![Profile Picture](https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg)
+<a target="_blank" href="https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg"><img width="120" align="right" src="https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg"></a>
+
 
 ## Frontend Developer | Full Stack Developer
 
@@ -59,8 +60,6 @@ I am always eager to connect with like-minded professionals and explore opportun
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ly-heang-470476243/)
 [![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/Ly_Heang)
-[![Gmail](https://img.shields.io/badge/Phone-+855_319465222-black?color=14171A&labelColor=blue&logoColor=ffffff)](tel:85581424846)
-[![Gmail](https://img.shields.io/badge/Address-Sangkat_Pshar_Derm_Kor_,_Phnom_Penh-black?color=14171A&labelColor=ffcc80&logoColor=ffffff)](https://goo.gl/maps/dQP7hmfbc8xXgzSQA)
 
 ### 🔭 Currently Working On
 - Frontend Development at DR. TECH
