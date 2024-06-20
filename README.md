@@ -3,7 +3,7 @@
 <a target="_blank" href="https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg"><img width="120" align="right" src="https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg"></a>
 
 
-## Frontend Developer | Full Stack Developer
+## Frontend Developer
 
 Welcome to my GitHub! I'm a passionate and experienced Frontend Developer with over 3 years of experience in developing dynamic and responsive web applications. My expertise lies in using the latest frontend technologies to create efficient and visually appealing applications.
 
