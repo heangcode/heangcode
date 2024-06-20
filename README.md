@@ -1,34 +1,58 @@
-### Hi there, I'm Heang - aka [HeangCode] 👋
+# 👋 Hi, I'm Ly Heang
 
-## I'm a Developer, Mentor, and Lifelong Learner!
+![Profile Picture]([https://your-profile-picture-url.com](https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg))  <!-- Replace with your actual profile picture URL -->
 
-- 🔭 I’ve been working on Web Application Architecture and Full Stack Development.
-- 🌱 I’m currently expanding my expertise in Frontend Technologies like ReactJS, NextJS, and Tailwind CSS.
-- 👯 I’m looking to collaborate on open-source projects and educational content for budding developers.
-- 🥅 2023 Goals: Further enhance my skills in both Frontend and Backend development, and contribute to meaningful projects.
-- ⚡ Fun fact: Apart from coding, I have a passion for drawing and gaming!
+## Frontend Developer | Full Stack Developer
 
-### Connect with me: heangcode@gmail.com
+Welcome to my GitHub! I'm a passionate and experienced Frontend Developer with over 3 years of experience in developing dynamic and responsive web applications. My expertise lies in using the latest frontend technologies to create efficient and visually appealing applications.
 
-[<img align="left" alt="heangdev.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+### 🛠️ Skills & Technologies
 
-### Languages and Tools:
+#### Frontend Development
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Libraries/Frameworks:** ReactJS, NextJS, VueJs, TailwindCSS, Vuetify
+- **State Management:** Pinia
+- **Testing:** Jest, React Testing Library, Storybook
+- **Additional Tools:** Figma, Vite
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />]
-[<img align="left" alt="Next.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />]
-[<img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" />]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" />]
+#### Backend Development
+- **Technologies:** NodeJS, ExpressJS
+- **Database:** MongoDB
 
-<br />
-<br />
+### 📚 Education
+- **Software Engineering Web** - SABAICODE (2022 - 2024)
+- **Full-Stack Developer** - JOMNOT (2021 - 2022)
+- **Information Technology Engineering** - RUPP University (2020 - 2024)
 
-### Education:
+### 🏢 Work Experience
 
-- Bachelor's Degree in Computer Science from Royal University of Phnom Penh (2020 - 2024)
-- Full Stack Web Development Program at Sabai Code (2020 - 2021)
+- **Frontend Developer at DR. TECH** (2024 - Present)
+  - Developed "ChatMe," a custom chat platform.
+  - Created an Admin and Agent Portal for comprehensive management of the platform.
+  
+- **Software Engineering Web at SABAICODE** (2022 - 2024)
+  - Built an E-Learning-Tool system for School Management.
+  - Developed the company website utilizing the newest technologies.
+  - Experienced as a coach teaching Bootcamp.
 
----
+- **Full-Stack Developer at SabaiCode** (2020 - 2021)
+  - Led the creation of an E-Learning Tool system.
+  - Improved digital interactions between instructors and students.
 
-[website]: heangdev.vercel.app
+### 🏆 Certifications
+- **Full Stack Developer Bootcamp Certificate** - Sponsored by Cellcard (2021)
+- **Certificate Web Development**
+
+### 🌐 Online Presence
+- **Portfolio:** [heangdev-rho.vercel.app](https://heangdev-rho.vercel.app/)
+- **Email:** heangcode@gmail.com
+- **Phone:** +855 81 42 48 46 / +855 12 7600 23
+- **Location:** St C, Sen Sok, Phnom Penh City
+
+### 📈 Professional Skills
+- Web Application Architecture
+- Frontend Development
+- Mentorship and Coaching
+
+### 🤝 Let's Connect
+I am always eager to connect with like-minded professionals and explore opportunities for collaboration. Feel free to reach out to me!
