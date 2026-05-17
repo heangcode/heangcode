@@ -1,123 +1,110 @@
-# 👋 Hi, I'm Ly Heang / លី ហៀង
+<a href="https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg">
+  <img width="130" align="right" src="https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg" />
+</a>
 
-<a target="_blank" href="https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg"><img width="120" align="right" src="https://school-project-management-system-bucket.s3.ap-southeast-1.amazonaws.com/Profile-Image-Default/2024-05-03+11.53.29.jpg"></a>
+<h1>Hi, I'm Ly Heang 👋</h1>
+<h3>Asst. Supervisor, Web Development · Full-Stack Developer · Phnom Penh 🇰🇭</h3>
 
-## Frontend Developer
+<p>
+  <a href="https://heangdev-rho.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:heangcode@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ly-heang-470476243/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/Ly_Heang" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
-Welcome to my GitHub! I'm a passionate and experienced Frontend Developer with over 3 years of experience in developing dynamic and responsive web applications. My expertise lies in using the latest frontend technologies to create efficient and visually appealing applications.
+---
 
-### 🛠️ Skills & Technologies
+### 🧑‍💻 About Me
 
-#### Frontend Development
+- 🏦 Currently **Asst. Supervisor, Web Development** at **Chipmong Bank**
+- 🚀 **6+ years** of experience across frontend, backend, and DevOps
+- 🏗️ Led **Internet Banking v2.0**, **Mobile Banking 5.0**, and **Open Banking Platform (OBP)**
+- 🐳 Architect of microservices on **Docker + AWS** with CI/CD pipelines
+- 🎓 Bachelor's in IT Engineering — **RUPP** (GPA: 3.80)
+- 🧑‍🏫 Former **Bootcamp Coach** at SabaiCode
+- 📍 Sen Sok, Phnom Penh
 
-- **Languages:** JavaScript (ES6+), TypeScript
-- **Libraries/Frameworks:** ReactJS, NextJS, VueJs, TailwindCSS, Vuetify
-- **State Management:** Pinia
-- **Testing:** Jest, React Testing Library, Storybook
-- **Additional Tools:** Figma, Vite
+---
 
-#### Backend Development
+### 🛠️ Tech Stack
 
-- **Technologies:** NodeJS, ExpressJS
-- **Database:** MongoDB
+#### 🌐 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-18181B?style=flat-square&logoColor=white)
 
-### 📚 Education
+#### ⚙️ Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-- **Software Engineering Web** - SABAICODE (2022 - 2024)
-- **Full-Stack Developer** - JOMNOT (2021 - 2022)
-- **Information Technology Engineering** - RUPP University (2020 - 2024)
+#### 🗄️ Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### 🏢 Work Experience
+#### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-- **Frontend Developer at DR. TECH** (2024 - Present)
-  - Developed "ChatMe," a custom chat platform.
-  - Created an Admin and Agent Portal for comprehensive management of the platform.
-- **Software Engineering Web at SABAICODE** (2022 - 2024)
+#### 🎨 Design & Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-  - Built an E-Learning-Tool system for School Management.
-  - Developed the company website utilizing the newest technologies.
-  - Experienced as a coach teaching Bootcamp.
+---
 
-- **Full-Stack Developer at SabaiCode** (2020 - 2021)
-  - Led the creation of an E-Learning Tool system.
-  - Improved digital interactions between instructors and students.
+### 💼 Work Experience
 
-### 🏆 Certifications
+| Period | Role | Company |
+|--------|------|---------|
+| Aug 2024 – Present | 🏦 Asst. Supervisor, Web Development | Chipmong Bank |
+| Apr 2024 – Jun 2024 | 💬 Frontend Developer | DR.TECH |
+| Dec 2022 – Mar 2024 | 🎓 Software Engineering Web & Bootcamp Coach | SabaiCode |
+| Jan 2021 – Dec 2022 | 🌐 Full-Stack Developer | JOMNOT |
 
-- **Full Stack Developer Bootcamp Certificate** - Sponsored by Cellcard (2021)
-- **Certificate Web Development**
+---
 
-### 🌐 Online Presence
+### 🏆 Highlights
 
-- **Portfolio:** [heangdev-rho.vercel.app](https://heangdev-rho.vercel.app/)
-- **Email:** heangcode@gmail.com
-- **Phone:** +855 81 42 48 46 / +855 12 7600 23
-- **Location:** St C, Sen Sok, Phnom Penh City
+- ✅ Built **Internet Banking v2.0** — retail & corporate banking (Vue.js + Spring Boot + Oracle/PostgreSQL)
+- ✅ Launched **Mobile Banking 5.0 App** for tens of thousands of active customers
+- ✅ Deployed **microservices** (Core, Payment, Transfer, Card, Integration APIs) on Docker + AWS
+- ✅ Delivered **OBP**, **Merchant Service Portal**, and **Mobile Banking Management Portal**
+- ✅ Built **ChatMe** — real-time chat platform with Admin & Agent Portal at DR.TECH
+- ✅ Mentored 100+ students as Bootcamp Coach at SabaiCode
 
-### 📈 Professional Skills
+---
 
-- Web Application Architecture
-- Frontend Development
-- Mentorship and Coaching
+### 📊 GitHub Stats
 
-### 🛠️ My Skill Set
+[![Heang's GitHub stats](https://github-readme-stats.vercel.app/api?username=heangcode&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/heangcode)
 
-```tsx
-{
-  Frontend: ['React Typescript', 'Next Js', 'Typescript', 'JSON'],
-  State Management: ['Pinia', 'ContextAPI'],
-  Frontend UI: ['Html5', 'Chakra UI', 'MUI', 'Bootstrap 5', 'Css3', 'Sass', 'Tailwindcss', 'StyledJs', 'mdx'],
-  Tools & Build: ['WebPack', 'Npm', 'Lerna', 'Npm', 'yarn'],
-  Testing: ['Jest', 'React Library Test'],
-  Design: ['Adobe XD', 'Figma'],
-  Common Libraries: ['Axios', 'hook useRequest'...],
-  Linting: ['Eslint', 'Pretty', 'StyleLint'],
-  Development Tools: ['vs code', 'postman', 'jira', 'Trello', 'Asana'],
-  Cloud: ['Vercel', 'Heroku', 'Netlify', 'Github Page'],
-  Basic Languages: ['Linux', 'SocketIo', 'Java'],
-}
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heangcode&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)](https://github.com/heangcode)
 
-### 🤝 Let's Connect
+[![GitHub Streak](https://streak-stats.demolab.com?user=heangcode&theme=tokyonight&hide_border=true)](https://github.com/heangcode)
 
-I am always eager to connect with like-minded professionals and explore opportunities for collaboration. Feel free to reach out to me!
+---
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/ly-heang-470476243/)
-[![telegram](https://img.shields.io/badge/Telegram-Chat-black?color=14171A&labelColor=blue&logoColor=ffffff)](https://t.me/Ly_Heang)
+<img src="https://komarev.com/ghpvc/?username=heangcode&color=0891b2&style=flat-square&label=Profile+Views" />
 
-### 🔭 Currently Working On
-
-- Frontend Development at DR. TECH
-- Building dynamic and responsive web applications
-- Exploring new technologies and frameworks to enhance user experience
-
-### 🌱 Currently Learning
-
-- Advanced React and NextJS techniques
-- State management with Redux and Context API
-- Backend development with NodeJS and ExpressJS
-
-### 👯 Looking to Collaborate On
-
-- Open-source projects
-- Innovative web development projects
-- Mentorship and coaching for aspiring developers
-
-### 💬 Ask Me About
-
-- Frontend development best practices
-- Web application architecture
-- Career advice in web development
-
-### 📫 How to Reach Me
-
-- **Email:** heangcode@gmail.com
-- **Phone:** +855 81 42 48 46 / +855 12 7600 23
-
-### 😄 Pronouns
-
-- He/Him
-
-### ⚡ Fun Fact
-
-- I love to explore new technologies and enjoy mentoring others in the field of web development.
+⚡ Passionate about building fintech platforms · Always learning · Open to collaboration
